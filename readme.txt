@@ -1,5 +1,4 @@
-student#: 20110680
-name: Xiaoyu Yang
+Xiaoyu
 Department of ECE
 
 1. download the SisFall dataset and put it into ./SisFall_dataset
